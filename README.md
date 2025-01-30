@@ -1,5 +1,5 @@
 ## About me
-I'm **Huy**, a 2nd-year student majoring in Computer Science from Vietnam.
+I'm **Huy** (pronounced *hwi*), a 2nd-year student majoring in Computer Science from Vietnam.
 
 - 🧠 I'm interested in Machine Learning.
 - 📑 I love exploring trivia, solving (and crafting) puzzles.
